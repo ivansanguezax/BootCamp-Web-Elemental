@@ -9,14 +9,14 @@ Aprenderemos cómo funciona un navegador, la herramienta que utilizamos para nav
 Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.** Aprender en detalle estas tres tecnologías nos dará una gran diferencia al momento de crear aplicaciones web listas para escalar y para generar interacción con usuarios reales.
 
 
-#### Descripción
+## Descripción
 
 |Nombre del programa     |  Desarrollo Web(Bootcamp) |
 | ------------ | ------------ | 
 |Edad Sugerida  |  15 a 21 años|
 |  Requisitos |Manejo básico de la computadora, Contar con una computadora (No importa el Sistema Operativo) y conexión a internet.   |
 
-##Competencias/Objetivos generales
+## Competencias/Objetivos generales
 
 
 ##### Desarrollo Web Fundamentals
