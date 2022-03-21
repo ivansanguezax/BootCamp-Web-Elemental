@@ -1,26 +1,75 @@
-# html-basics
-Introducción a html, css y js.
+# Bootcamp Desarrollo Web
 
-La idea de este proyecto es mostrar algunas de las características básicas del maquetado de páginas web a través de conceptos generales de uso de **html, css y javascript**.
+Este taller está orientado para **estudiantes** que no tengan ningún conocimiento o experiencia previa en programación.
 
-## Html
+Antes de escribir código, aprenderemos cómo funciona internet. Entenderemos temas como protocolos, la diferencia entre web e internet, la historia de la web y cómo ha evolucionado para convertirse en lo que es hoy.
 
-HTML, que significa Lenguaje de Marcado para Hipertextos (HyperText Markup Language) es el elemento de construcción más básico de una página web y se usa para crear y representar visualmente una página web. Determina el contenido de la página web, pero no su funcionalidad. Otras tecnologías distintas de HTML son usadas generalmente para describir la apariencia/presentación de una página web (CSS) o su funcionalidad (JavaScript).
+Aprenderemos cómo funciona un navegador, la herramienta que utilizamos para navegar por internet (Chrome, Firefox, etc.) Aprenderemos a configurar nuestro entorno de trabajo, utilizando herramientas como la terminal de comandos, Git y Github, Google Chrome de manera profesional y el uso de **Visual Studio Code**.
 
-HTML le da "valor añadido" a un texto estándar en español. Hiper Texto se refiere a enlaces que conectan una página Web con otra, ya sea dentro de una página web o entre diferentes sitios web. los vínculos son un aspecto fundamental de la Web. Al subir contenido a Internet y vincularlo a páginas de otras personas, te haces participante activo de esta Red Mundial.
+Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.** Aprender en detalle estas tres tecnologías nos dará una gran diferencia al momento de crear aplicaciones web listas para escalar y para generar interacción con usuarios reales.
 
-HTML usa "markup" o marcado para anotar textos, imágenes, y otros contenidos que se muestran en el Navegador Web. El lenguaje de marcado HTML incluye "elementos" especiales tales como ```<head>, <title>, <body>, <header>, <article>, <section>, <p>, <div>, <span>, <img>, y muchos otros más.```
 
-## Css
+#### Descripción
 
-Hojas de Estilo en Cascada (del inglés Cascading Style Sheets) o CSS es el lenguaje utilizado para describir la presentación de documentos HTML o XML, esto incluye varios lenguajes basados en XML como son XHTML o SVG. CSS describe como debe ser renderizado el elemento estructurado en pantalla, en papel, hablado o en otros medios.
-CSS es uno de los lenguajes base de la Open Web y posee una especificación estandarizada por parte del W3C.
+|Nombre del programa     |  Desarrollo Web(Bootcamp) |
+| ------------ | ------------ | 
+|Edad Sugerida  |  15 a 21 años|
+|  Requisitos |Manejo básico de la computadora, Contar con una computadora (No importa el Sistema Operativo) y conexión a internet.   |
 
-## Javascript
+##Competencias/Objetivos generales
 
-JavaScript (JS) es un lenguaje ligero e interpretado, orientado a objetos con funciones de primera clase, más conocido como el lenguaje de script para páginas web, pero también usado en muchos entornos sin navegador, tales como node.js, Apache CouchDB y Adobe Acrobat. Es un lenguaje script multi-paradigma, basado en prototipos, dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa. Leer más sobre JavaScript.
-El estándar de JavaScript es ECMAScript. Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1. Los navegadores más antiguos soportan por lo menos ECMAScript 3. El 17 de Julio de 2015, ECMA International publicó la sexta versión de ECMAScript, la cual es oficialmente llamada ECMAScript 2015, y fue inicialmente nombrada como ECMAScript 6 o ES6. Desde entonces, los estándares ECMAScript están en ciclos de lanzamiento anuales.
-JavaScript no debe ser confundido con el lenguaje de programación Java. Ambos "Java" y "Javascript" son marcas registradas de Oracle en Estados Unidos y otros países. Sin embargo, los dos lenguajes de programación tienen muchas diferencias en las sintaxis, semántica y usos.
+
+##### Desarrollo Web Fundamentals
+
+- Comprenda cómo funcionan los sitios web y cómo HTML, CSS y
+- Contribuir a JavaScript.
+- Comprende cómo funciona Internet.
+- Empiece a codificar con HTML, CSS y JavaScript.
+- Aprenda y comprenda git, GitHub y el control de versiones.
+- Utilice la línea de comandos de Unix para convertirse en un usuario avanzado y escribir comandos de bash.
+- Aprenda habilidades clave de resolución de problemas y depuración para aplicar sus proyectos.
+
+##### HTML 5
+- Aprenda la anatomía de la sintaxis HTML para estructurar su sitios web.
+- Comprender la plantilla HTML y los tipos de documento HTML.
+- Cómo estructurar texto en HTML.
+- Cómo estructurar listas HTML para crear ordenadas y desordenadas
+- Cómo insertar imágenes usando HTML
+- Cómo crear hipervínculos utilizando etiquetas de anclaje.
+- Comprender cómo utilizar tablas HTML para el contenido.
+- Cómo utilizar tablas para el diseño.
+- Aprenda las mejores prácticas de HTML.
+- Comprender los formularios HTML y crear un contacto simple.
+- HTML Divs y cómo separar el contenido para el estilo CSS
+
+##### CSS 3
+- Comprenda qué son las hojas de estilo en cascada y cómo puede
+- Cómo utilizar selectores y propiedades de CSS.
+- Aprenda a usar CSS en línea, interno y externo.
+- Comprender las mejores prácticas de codificación CSS.
+- Obtenga más información sobre los métodos de dimensionamiento CSS.
+- Aprenda la anatomía de la sintaxis y la estructura de CSS.
+- Especificidad de CSS e implementación de jerarquía de estilos.
+- Visualización CSS y cómo implementar el diseño.
+- Cómo utilizar el posicionamiento estático, relativo y absoluto de CSS
+- Estilo de fuente usando CSS y fuentes seguras para la web.
+- Centrado de elementos mediante CSS.
+- Fundamentos del diseño de sitios web y tipografía.
+- Cómo usar CSS flotante y claro.
+- Cómo combinar selectores CSS y comprender la prioridad del selector.
+
+##### JavaScript 6
+
+- Los fundamentos del código
+- Código de inicio con alertas y avisos.
+- Comprender las variables y los tipos de datos en JavaScript
+- Nomenclatura de variables en JS
+- Trabajar con cadenas y números
+- Aleatorización y operadores lógicos
+- Bucles, colecciones y condicionales.
+- Funciones y patrones de invocación
+- Discusión de ECMAScripts
+- JavaScript intermedio
 
 
 ### contenido citado de https://developer.mozilla.org/es/docs/Web
