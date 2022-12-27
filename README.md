@@ -1,4 +1,4 @@
-# Bootcamp Desarrollo Web
+# Bootcamp Desarrollo Web 👨🏽‍💻
 
 Este taller está orientado para **estudiantes** que no tengan ningún conocimiento o experiencia previa en programación.
 
@@ -9,17 +9,17 @@ Aprenderemos cómo funciona un navegador, la herramienta que utilizamos para nav
 Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.** Aprender en detalle estas tres tecnologías nos dará una gran diferencia al momento de crear aplicaciones web listas para escalar y para generar interacción con usuarios reales.
 
 
-## Descripción
+## Descripción ✏️
 
 |Nombre del programa     |  Desarrollo Web(Bootcamp) |
 | ------------ | ------------ | 
 |Edad Sugerida  |  15 a 21 años|
 |  Requisitos |Manejo básico de la computadora, Contar con una computadora (No importa el Sistema Operativo) y conexión a internet.   |
 
-## Competencias/Objetivos generales
+## Competencias/Objetivos generales ⭐️
 
 
-##### Desarrollo Web Fundamentals
+##### 📌 Desarrollo Web Fundamentals 
 
 - Comprenda cómo funcionan los sitios web y cómo HTML, CSS y
 - Contribuir a JavaScript.
@@ -29,7 +29,7 @@ Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.**
 - Utilice la línea de comandos de Unix para convertirse en un usuario avanzado y escribir comandos de bash.
 - Aprenda habilidades clave de resolución de problemas y depuración para aplicar sus proyectos.
 
-##### HTML 5
+#####  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) HTML 5 
 - Aprenda la anatomía de la sintaxis HTML para estructurar su sitios web.
 - Comprender la plantilla HTML y los tipos de documento HTML.
 - Cómo estructurar texto en HTML.
@@ -42,7 +42,7 @@ Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.**
 - Comprender los formularios HTML y crear un contacto simple.
 - HTML Divs y cómo separar el contenido para el estilo CSS
 
-##### CSS 3
+##### ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  CSS 3
 - Comprenda qué son las hojas de estilo en cascada y cómo puede
 - Cómo utilizar selectores y propiedades de CSS.
 - Aprenda a usar CSS en línea, interno y externo.
@@ -58,7 +58,7 @@ Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.**
 - Cómo usar CSS flotante y claro.
 - Cómo combinar selectores CSS y comprender la prioridad del selector.
 
-##### JavaScript 6
+##### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) JavaScript 
 
 - Los fundamentos del código
 - Código de inicio con alertas y avisos.
@@ -71,5 +71,13 @@ Ya con el entorno listo, comenzaremos con las bases. **HTML, CSS y JavaScript.**
 - Discusión de ECMAScripts
 - JavaScript intermedio
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivansanguezax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivansanguezax) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivansanguezax) 
 
-### contenido citado de https://developer.mozilla.org/es/docs/Web
+## Te gusta el contenido?
+
+Dejame tu opinión en los comentarios.
+Si te gusta el contenido, **comparte** y **Dejame una estrella** ⭐️
+
+---
+⌨️ con ❤️ por [ivansanguezax](https://github.com/ivansanguezax) 😊
